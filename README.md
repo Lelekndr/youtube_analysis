@@ -16,7 +16,6 @@ The notebook focuses on descriptive questions and data quality rather than causa
 
 ## Visual results
 
-After running the notebook, take screenshots of the four charts below and save them in a folder named `images/` at the root of the repository. Use the filenames shown so the README displays them automatically.
 
 ### 1. Channel categories
 
@@ -124,6 +123,4 @@ The `images/` files are screenshots to be added after running the notebook.
 - Data visualization
 - Careful interpretation of descriptive statistics and dataset limitations
 
-## Author
 
-Leandro Mendieta — [GitHub](https://github.com/Lelekndr)
